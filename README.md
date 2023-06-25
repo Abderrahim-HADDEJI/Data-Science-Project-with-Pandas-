@@ -65,10 +65,10 @@ Through this project, we will accomplish the following important tasks:
    * Cleaning and Transforming the new Cast Column
 
    * Cleaning and Transforming the new Crew Column
-   
+
    * Save the new and clean DataSet
 ------------------------
 
 Project 5: Working with Pandas and SQL Databases (Movies Dataset)
 
-  In this project we will load data from databases and to pandas dataFrame, and we will adapt our requests to obtain only the database data we really need for our analysis. We shall therefore cover more than database loading data. It's actually all about improving memory and performance efficiency by working with pandas and secure databases in paralle# Data-Science-Project-with-Pandas-
+  In this project we will load data from databases and to pandas dataFrame, and we will adapt our requests to obtain only the database data we really need for our analysis. We shall therefore cover more than database loading data. It's actually all about improving memory and performance efficiency by working with pandas and secure databases in paralle.
