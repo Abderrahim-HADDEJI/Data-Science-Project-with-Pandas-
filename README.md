@@ -54,7 +54,7 @@ Part3 :" Data Cleaning Tidy up messy Datasets "
 -----------------------------------------------------
 
 
-Project 4: " Merging & Cleaning & Transforming Data "
+Part4: " Merging & Cleaning & Transforming Data "
 Through this project, we will accomplish the following important tasks:
 
 
@@ -69,6 +69,6 @@ Through this project, we will accomplish the following important tasks:
    * Save the new and clean DataSet
 ------------------------
 
-Project 5: Working with Pandas and SQL Databases (Movies Dataset)
+Part 5: " Working with Pandas and SQL Databases "
 
   In this project we will load data from databases and to pandas dataFrame, and we will adapt our requests to obtain only the database data we really need for our analysis. We shall therefore cover more than database loading data. It's actually all about improving memory and performance efficiency by working with pandas and secure databases in paralle.
