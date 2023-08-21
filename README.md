@@ -1,7 +1,5 @@
 
-Through this project that is "Data-Science Project with Pandas Movies Dataset", I split it into 5 main parts, each part is independent of the other.
-My goal is for the project to be more clear and more understandable according to a data science project and his challenge.
-
+For this project "Data-Science Project with Pandas Movies Dataset", I have divided it into 5 main parts, and each part is independent of the other. My goal is for the project to be clearer and more understandable according to a data science project and his challenge.
 
 Part1 :" Explanatory Data Analysis & Data Presentation "
 
@@ -22,7 +20,6 @@ Part1 :" Explanatory Data Analysis & Data Presentation "
 
 Part2 : " Data Import Working with APIs and JSON "
 The second part of the project involves dealing in general with : 
-
 
    * Importing Data from JSON files
 
@@ -71,4 +68,4 @@ Through this project, we will accomplish the following important tasks:
 
 Part 5: " Working with Pandas and SQL Databases "
 
-  In this project we will load data from databases and to pandas dataFrame, and we will adapt our requests to obtain only the database data we really need for our analysis. We shall therefore cover more than database loading data. It's actually all about improving memory and performance efficiency by working with pandas and secure databases in paralle.
+  In this project, we will load data from databases and to a pandas data frame, and we will adapt our requests to obtain only the database data we really need for our analysis. We shall therefore cover more than database loading data. It's actually all about improving memory and performance efficiency by working with the pandas and secure databases in parallel.
